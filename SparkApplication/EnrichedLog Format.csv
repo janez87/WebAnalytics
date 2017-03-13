@@ -13,7 +13,7 @@ NameField;Type;Description;Data Source
   ClickedEntityName; string ;The Clicked Entity Name of the User navigation;Data Model
   RequestedPageName; string ;The Requested page Name of the User navigation;WebModel
   targetUnit; string ;The target unit(view Component) activated by the user navigation;WebModel
-  ClickedTypeOid; string ;"The column name of the Db relative to the Entity activated by the user navigation. Rappresent the type of the oid";DataModel,WebModel
+  ClickedTypeOid; string ;The column name of the Db relative to the Entity activated by the user navigation. Rappresent the type of the oid";DataModel,WebModel
   ClickedOidValue; string ;The Db value of the entity clicked by the User asvigation;DB
   LogLevel; string ;The  level of the rtx log(Debug, Info…);Rtx Log
   host; string ;The host Name;Rtx Log
